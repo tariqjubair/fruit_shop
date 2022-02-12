@@ -1,0 +1,41 @@
+
+
+<!-- ==== ==== Header Part Starts Here ==== ==== -->
+<!-- ==== ==== Header Part Ends Here ==== ==== -->
+
+
+
+/* ==== ==== Header part Starts Here  ==== ==== */
+/* ==== ==== Header part Ends Here  ==== ==== */
+
+
+
+font-family: 'Hind', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+
+
+f56c04
+
+282828
+
+
+<div class="row">
+    <div class="col-lg-5 m-auto">
+        <div class="item_head text-center">
+            <h3>OUR PRODUCTS</h3>
+        </div>
+    </div>
+</div>
+
+p-sm-0 col-sm-6 col-md-4
+
+
+
+.count_item {
+    margin-bottom: 30px;
+}
+
+
